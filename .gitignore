@@ -1,0 +1,34 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.env/
+SaleAutomation/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset
+data/raw/
+data/processes data/
+*.csv
+
+# Models
+models/
+*.pkl
+
+# Config
+config.yaml
+
+# Streamlit
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
