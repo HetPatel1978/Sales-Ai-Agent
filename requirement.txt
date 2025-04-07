@@ -7,3 +7,6 @@ uvicorn
 openai
 pyyaml
 joblib
+streamlit
+requests
+

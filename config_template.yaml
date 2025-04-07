@@ -1,0 +1,9 @@
+#can't share the original file, but this is a template for the config file
+# This is a template for the configuration file used in the project.
+
+model_name: "tiiuae/falcon-7b-instruct"               # Example free model for text generation
+
+recommendation_thresholds:
+    high: 0.7
+    medium: 0.4
+    overdue_days: 7
